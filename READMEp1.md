@@ -4,4 +4,4 @@
 * In the final step,I displayed the count.
 
 
-Here is the screenshot of the testcase and result (p1.png)
+Here is the screenshot of the testcase and result (https://github.com/tejasrinainala/Arraysolvedproblems/blob/main/p1.png)
