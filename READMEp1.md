@@ -2,3 +2,6 @@
 * For solving this problem,I used funtion,for loops and conditional statements.
 * I took a variable and icremented it until i reach the last pair of comparision of array numbers.
 * In the final step,I displayed the count.
+
+
+Here is the screenshot of the testcase and result (p1.png)
